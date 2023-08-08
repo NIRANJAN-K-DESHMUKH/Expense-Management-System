@@ -11,7 +11,17 @@ One of its standout features is the dashboard that presents users with detailed 
 ### Register Page:
 ![image](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/16431dc4-b3c3-45e4-805f-9a121766b7eb)
 ##
-### Home Page:
+### Adding the expenses:
+![Screenshot (91)](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/d8bf2881-39d8-45ce-a72c-af14ad7855eb)
+##
+### Records:
+![Screenshot (92)](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/cbf709be-fef1-470c-a161-9c4ad5316dbd)
+##
+### Dashboard:
+![Screenshot (93)](https://github.com/NIRANJAN-K-DESHMUKH/Expense-Management-System/assets/82277471/f3c1b04a-23aa-47b2-a098-d6e5f7b78e59)
+
+
+
 
 
 
