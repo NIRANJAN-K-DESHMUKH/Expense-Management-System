@@ -54,7 +54,7 @@ const Login = () => {
               </Form.Item>
               <div className="d-flex justify-content-between">
                 <Link to="/register">
-                  Not a user ? Click here to Regsiter!
+                  Not a user? Click here to Regsiter!
                 </Link>
                 <button className="btn">Login</button>
               </div>
